@@ -1,0 +1,17 @@
+{
+  "build": "mkl",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [],
+  "fn": "blas-1.0-mkl.conda",
+  "license": "",
+  "md5": "29c8be9152b7cbf29578794154d2408f",
+  "name": "blas",
+  "sha256": "b289fbee56e55bedc51cc333bacd32b3632a116d9d60d1176740b035dbaf44a2",
+  "size": 6364,
+  "subdir": "win-64",
+  "timestamp": 1528122357000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/blas-1.0-mkl.conda",
+  "version": "1.0"
+}
